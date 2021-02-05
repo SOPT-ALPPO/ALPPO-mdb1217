@@ -7,6 +7,8 @@
 
 :alarm_clock: **2021-02-05**
 
-`2660 회장뽑기`
+`2660 회장뽑기` `15922 아우으 우아으이야!!`
 
-https://www.acmicpc.net/problem/2660
+**BOJ : https://www.acmicpc.net/problem/2660**
+
+**BOJ : https://www.acmicpc.net/problem/15922**
