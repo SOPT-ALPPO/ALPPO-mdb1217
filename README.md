@@ -12,3 +12,12 @@
 **BOJ : https://www.acmicpc.net/problem/2660**
 
 **BOJ : https://www.acmicpc.net/problem/15922**
+
+
+:alarm_clock: **2021-02-06**
+
+`20162 간식 파티` `1757 달려달려`
+
+**BOJ : https://www.acmicpc.net/problem/20162**
+
+**BOJ : https://www.acmicpc.net/problem/1757**
