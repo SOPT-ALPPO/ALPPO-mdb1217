@@ -51,8 +51,9 @@ public class SpecificDistance {
 		}
 		bfs(X);
 		if(!heap.isEmpty()) {
-			for(int i : heap)
-				System.out.println(i);
+			while(!heap.isEmpty()) {
+				System.out.println(heap.poll());
+			}
 		}
 		else 
 			System.out.println(-1);
@@ -68,16 +69,16 @@ public class SpecificDistance {
 		
 		while(!list.isEmpty()) {
 			city = list.poll();
-			cnt = city.dis + 1;
-			if(cnt > K)
-				break;
+			cnt = city.dis;
 			city_num = city.city;
+			if(cnt == K) {
+				heap.add(city_num);
+				continue;
+			}
 			for(int i : Map.get(city_num)) {
 				if(Visited[i] == 0) {
-					list.add(new City(i, cnt));
 					Visited[i] = 1;
-					if(cnt == K)
-						heap.add(i);
+					list.add(new City(i, cnt + 1));
 				}
 			}
 		}
