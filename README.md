@@ -65,3 +65,10 @@
 `19640 화장실의 규칙`
 
 **BOJ : https://www.acmicpc.net/problem/19640**
+
+
+:alarm_clock: **2021-02-14**
+
+`6593 상범 빌딩`
+
+**BOJ : https://www.acmicpc.net/problem/6593**
