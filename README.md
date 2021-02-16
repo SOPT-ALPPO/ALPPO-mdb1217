@@ -72,3 +72,17 @@
 `6593 상범 빌딩`
 
 **BOJ : https://www.acmicpc.net/problem/6593**
+
+
+:alarm_clock: **2021-02-15**
+
+`16957 체스판 위의 공`
+
+**BOJ : https://www.acmicpc.net/problem/16957**
+
+
+:alarm_clock: **2021-02-16**
+
+`17212 달나라 토끼를 위한 구매대금 지불 도우미`
+
+**BOJ : https://www.acmicpc.net/problem/17212**
