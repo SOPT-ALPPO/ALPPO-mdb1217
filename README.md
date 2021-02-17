@@ -86,3 +86,10 @@
 `17212 달나라 토끼를 위한 구매대금 지불 도우미`
 
 **BOJ : https://www.acmicpc.net/problem/17212**
+
+
+:alarm_clock: **2021-02-17**
+
+`14430 자원 캐기`
+
+**BOJ : https://www.acmicpc.net/problem/14430**
