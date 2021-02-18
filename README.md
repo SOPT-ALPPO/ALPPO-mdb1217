@@ -93,3 +93,11 @@
 `14430 자원 캐기`
 
 **BOJ : https://www.acmicpc.net/problem/14430**
+
+
+
+:alarm_clock: **2021-02-18**
+
+`1916 최소비용 구하기`
+
+**BOJ : https://www.acmicpc.net/problem/1916**
