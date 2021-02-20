@@ -106,6 +106,8 @@
 
 :alarm_clock: **2021-02-20**
 
-`11123 양 한마리... 양 두마리...`
+`11123 양 한마리... 양 두마리...` `15649 N과 M (1)`
 
 **BOJ : https://www.acmicpc.net/problem/11123**
+
+**BOJ : https://www.acmicpc.net/problem/15649**
