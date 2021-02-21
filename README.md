@@ -111,3 +111,10 @@
 **BOJ : https://www.acmicpc.net/problem/11123**
 
 **BOJ : https://www.acmicpc.net/problem/15649**
+
+
+:alarm_clock: **2021-02-21**
+
+`16469 소년 점프`
+
+**BOJ : https://www.acmicpc.net/problem/16469**
