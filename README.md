@@ -129,6 +129,8 @@
 
 :alarm_clock: **2021-02-23**
 
-`15650 N과 M (2)`
+`15650 N과 M (2)` `1062 가르침`
 
 **BOJ : https://www.acmicpc.net/problem/15650**
+
+**BOJ : https://www.acmicpc.net/problem/1062**
