@@ -134,3 +134,11 @@
 **BOJ : https://www.acmicpc.net/problem/15650**
 
 **BOJ : https://www.acmicpc.net/problem/1062**
+
+
+:alarm_clock: **2021-02-24**
+
+`4597 패리티`
+
+**BOJ : https://www.acmicpc.net/problem/4597**
+
