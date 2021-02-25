@@ -152,6 +152,8 @@
 
 :alarm_clock: **2021-02-26**
 
-`11051 이항 계수 2`
+`11051 이항 계수 2` `14501 퇴사` 
 
 **BOJ : https://www.acmicpc.net/problem/11051**
+
+**BOJ : https://www.acmicpc.net/problem/14501**
