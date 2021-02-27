@@ -157,3 +157,10 @@
 **BOJ : https://www.acmicpc.net/problem/11051**
 
 **BOJ : https://www.acmicpc.net/problem/14501**
+
+
+:alarm_clock: **2021-02-27**
+
+`1253 좋다`
+
+**BOJ : https://www.acmicpc.net/problem/1253**
