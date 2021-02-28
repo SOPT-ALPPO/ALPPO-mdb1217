@@ -164,3 +164,12 @@
 `1253 좋다`
 
 **BOJ : https://www.acmicpc.net/problem/1253**
+
+
+:alarm_clock: **2021-02-28**
+
+`1655 가운데를 말해요` `12945 재미있는 박스 정리`
+
+**BOJ : https://www.acmicpc.net/problem/1655**
+
+**BOJ : https://www.acmicpc.net/problem/12945**
