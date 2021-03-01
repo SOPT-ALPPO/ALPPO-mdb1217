@@ -177,7 +177,7 @@
 
 :alarm_clock: **2021-03-01**
 
-`2109 순회강연` `2961 도영이가 만든 맛있는 음식` `19699 소-난다!` `2206 벽 부수고 이동하기`
+`2109 순회강연` `2961 도영이가 만든 맛있는 음식` `19699 소-난다!` `2206 벽 부수고 이동하기` `16439 치킨치킨치킨`
 
 **BOJ : https://www.acmicpc.net/problem/2109**
 
@@ -186,3 +186,5 @@
 **BOJ : https://www.acmicpc.net/problem/19699**
 
 **BOJ : https://www.acmicpc.net/problem/2206**
+
+**BOJ : https://www.acmicpc.net/problem/16439**
