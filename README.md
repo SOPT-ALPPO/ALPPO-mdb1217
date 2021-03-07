@@ -233,3 +233,12 @@
 `2667 단지번호붙이기`
 
 **BOJ : https://www.acmicpc.net/problem/2667**
+
+
+:alarm_clock: **2021-03-07**
+
+`1527 금민수의 개수` `16938 캠프 준비`
+
+**BOJ : https://www.acmicpc.net/problem/1527**
+
+**BOJ : https://www.acmicpc.net/problem/16938**
