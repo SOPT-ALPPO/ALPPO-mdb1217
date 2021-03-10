@@ -246,7 +246,7 @@
 
 :alarm_clock: **2021-03-08**
 
-`13549 숨바꼭질3` `9935 문자열 폭발` `14938 서강그라운드` `20920 영단어 암기는 괴로워`
+`13549 숨바꼭질3` `9935 문자열 폭발` `14938 서강그라운드` `20920 영단어 암기는 괴로워` `16500 문자열 판별`
 
 **BOJ : https://www.acmicpc.net/problem/13549**
 
@@ -255,3 +255,12 @@
 **BOJ : https://www.acmicpc.net/problem/14938**
 
 **BOJ : https://www.acmicpc.net/problem/20920**
+
+**BOJ : https://www.acmicpc.net/problem/16500**
+
+
+:alarm_clock: **2021-03-09**
+
+`13904 과제`
+
+**BOJ : https://www.acmicpc.net/problem/13904**
