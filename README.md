@@ -264,3 +264,10 @@
 `13904 과제`
 
 **BOJ : https://www.acmicpc.net/problem/13904**
+
+
+:alarm_clock: **2021-03-10**
+
+`19638 센티와 마법의 뿅망치`
+
+**BOJ : https://www.acmicpc.net/problem/19638**
