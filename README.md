@@ -289,6 +289,6 @@
 
 :alarm_clock: **2021-03-14**
 
-`18405 `
+`18405 경쟁적 전염`
 
 **BOJ : https://www.acmicpc.net/problem/18405**
