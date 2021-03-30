@@ -378,3 +378,16 @@
 **BOJ : https://www.acmicpc.net/problem/17245**
 
 **BOJ : https://www.acmicpc.net/problem/18114**
+
+
+:alarm_clock: **2021-03-30**
+
+`2252 줄 세우기` `2056 작업` `16678 모독` `3079 입국심사`
+
+**BOJ : https://www.acmicpc.net/problem/2252**
+
+**BOJ : https://www.acmicpc.net/problem/2056**
+
+**BOJ : https://www.acmicpc.net/problem/16678**
+
+**BOJ : https://www.acmicpc.net/problem/3079**
