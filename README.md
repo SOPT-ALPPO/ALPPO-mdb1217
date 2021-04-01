@@ -398,3 +398,12 @@
 `1654 랜선 자르기`
 
 **BOJ : https://www.acmicpc.net/problem/1654**
+
+
+:alarm_clock: **2021-04-01**
+
+`17393 다이나믹 롤러` `1766 문제집` 
+
+**BOJ : https://www.acmicpc.net/problem/17393**
+
+**BOJ : https://www.acmicpc.net/problem/1766**
