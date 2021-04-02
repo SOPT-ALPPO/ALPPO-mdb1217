@@ -407,3 +407,14 @@
 **BOJ : https://www.acmicpc.net/problem/17393**
 
 **BOJ : https://www.acmicpc.net/problem/1766**
+
+
+:alarm_clock: **2021-04-02**
+
+`2922 즐거운 단어` `2512 예산` `2467 용액` 
+
+**BOJ : https://www.acmicpc.net/problem/2922**
+
+**BOJ : https://www.acmicpc.net/problem/2512**
+
+**BOJ : https://www.acmicpc.net/problem/2467**
