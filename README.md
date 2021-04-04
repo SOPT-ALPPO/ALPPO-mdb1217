@@ -425,3 +425,12 @@
 `18113 그르다 김가놈` 
 
 **BOJ : https://www.acmicpc.net/problem/18113**
+
+
+:alarm_clock: **2021-04-04**
+
+`2473 세 용액` `2470 두 용액` 
+
+**BOJ : https://www.acmicpc.net/problem/2473**
+
+**BOJ : https://www.acmicpc.net/problem/2470**
