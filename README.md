@@ -443,3 +443,18 @@
 **BOJ : https://www.acmicpc.net/problem/7983**
 
 **BOJ : https://www.acmicpc.net/problem/7507**
+
+
+:alarm_clock: **2021-04-06**
+
+`2217 로프`
+
+**BOJ : https://www.acmicpc.net/problem/2217**
+
+
+:alarm_clock: **2021-04-07**
+
+`11501 주식`
+
+**BOJ : https://www.acmicpc.net/problem/11501**
+
