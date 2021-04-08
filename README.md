@@ -454,7 +454,12 @@
 
 :alarm_clock: **2021-04-07**
 
-`11501 주식`
+`11501 주식` `1202 보석 도둑` `2212 센서` `14627 파닭파닭`
 
 **BOJ : https://www.acmicpc.net/problem/11501**
 
+**BOJ : https://www.acmicpc.net/problem/1202**
+
+**BOJ : https://www.acmicpc.net/problem/2212**
+
+**BOJ : https://www.acmicpc.net/problem/14627**
