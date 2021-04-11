@@ -479,3 +479,10 @@
 `2141 우체국`
 
 **BOJ : https://www.acmicpc.net/problem/2141**
+
+
+:alarm_clock: **2021-04-11**
+
+`13417 카드 문자열`
+
+**BOJ : https://www.acmicpc.net/problem/13417**
