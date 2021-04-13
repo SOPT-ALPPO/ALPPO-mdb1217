@@ -486,3 +486,12 @@
 `13417 카드 문자열`
 
 **BOJ : https://www.acmicpc.net/problem/13417**
+
+
+:alarm_clock: **2021-04-13**
+
+`2239 스도쿠` `10775 공항`
+
+**BOJ : https://www.acmicpc.net/problem/2239**
+
+**BOJ : https://www.acmicpc.net/problem/10775**
