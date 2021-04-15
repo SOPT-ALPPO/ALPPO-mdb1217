@@ -495,3 +495,14 @@
 **BOJ : https://www.acmicpc.net/problem/2239**
 
 **BOJ : https://www.acmicpc.net/problem/10775**
+
+
+:alarm_clock: **2021-04-15**
+
+`1182 부분수열의 합` `9328 열쇠` `16198 에너지 모으기`
+
+**BOJ : https://www.acmicpc.net/problem/1182**
+
+**BOJ : https://www.acmicpc.net/problem/9328**
+
+**BOJ : https://www.acmicpc.net/problem/16198**
