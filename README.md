@@ -506,3 +506,14 @@
 **BOJ : https://www.acmicpc.net/problem/9328**
 
 **BOJ : https://www.acmicpc.net/problem/16198**
+
+
+:alarm_clock: **2021-04-16**
+
+`2342 Dance Dance Revolution` `1647 도시 분할 계획` `10974 모든 순열`
+
+**BOJ : https://www.acmicpc.net/problem/2342**
+
+**BOJ : https://www.acmicpc.net/problem/1647**
+
+**BOJ : https://www.acmicpc.net/problem/10974**
