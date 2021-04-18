@@ -517,3 +517,19 @@
 **BOJ : https://www.acmicpc.net/problem/1647**
 
 **BOJ : https://www.acmicpc.net/problem/10974**
+
+
+:alarm_clock: **2021-04-17**
+
+`1342 행운의 문자열`
+
+**BOJ : https://www.acmicpc.net/problem/1342**
+
+
+:alarm_clock: **2021-04-18**
+
+`1038 감소하는 수` `1759 암호 만들기`
+
+**BOJ : https://www.acmicpc.net/problem/1342**
+
+**BOJ : https://www.acmicpc.net/problem/1759**
