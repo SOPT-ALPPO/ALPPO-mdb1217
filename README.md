@@ -530,6 +530,13 @@
 
 `1038 감소하는 수` `1759 암호 만들기`
 
-**BOJ : https://www.acmicpc.net/problem/1342**
+**BOJ : https://www.acmicpc.net/problem/1038**
 
 **BOJ : https://www.acmicpc.net/problem/1759**
+
+
+:alarm_clock: **2021-04-19**
+
+`1976 여행 가자`
+
+**BOJ : https://www.acmicpc.net/problem/1976**
