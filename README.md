@@ -537,6 +537,19 @@
 
 :alarm_clock: **2021-04-19**
 
-`1976 여행 가자`
+`1976 여행 가자` `16953 A → B`
 
 **BOJ : https://www.acmicpc.net/problem/1976**
+
+**BOJ : https://www.acmicpc.net/problem/16953**
+
+
+:alarm_clock: **2021-04-20**
+
+`1941 소문난 칠공주` `14716 현수막` `2468 안전 영역`
+
+**BOJ : https://www.acmicpc.net/problem/1941**
+
+**BOJ : https://www.acmicpc.net/problem/14716**
+
+**BOJ : https://www.acmicpc.net/problem/2468**
