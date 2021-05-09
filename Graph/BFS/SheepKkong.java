@@ -44,8 +44,6 @@ public class SheepKkong {
 					w = 0;
 					bfs(i, j);
 					
-					//System.out.println(s + " " + w);
-					
 					if(s > w)
 						s_cnt += s;
 					else
@@ -80,12 +78,10 @@ public class SheepKkong {
 					if(Map[temp_x].charAt(temp_y) != '#' && !Visited[temp_x][temp_y]) {
 						if(Map[temp_x].charAt(temp_y) == 'v')
 							++w;
-						else if(Map[temp_x].charAt(temp_y) == 'k') {
+						else if(Map[temp_x].charAt(temp_y) == 'k')
 							++s;
-							System.out.println();
-						}
 						Visited[temp_x][temp_y] = true;
-						bfs(temp_x, temp_y);
+						queue.add(new Graph(temp_x, temp_y));
 					}
 				}
 			}
